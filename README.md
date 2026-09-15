@@ -58,5 +58,5 @@ private String email;
 private double gpa;
 
  The Sample Output:
+<img width="737" height="391" alt="WhatsApp Image 2026-09-15 at 11 16 28 PM" src="https://github.com/user-attachments/assets/6389ac52-c056-4c1f-8cfd-f0618ff46ad2" />
 
-The sample Output:<img width="386" height="158" alt="Screenshot 2026-09-15 225209" src="https://github.com/user-attachments/assets/4011779f-4803-4812-8283-1958c92b7823" 
